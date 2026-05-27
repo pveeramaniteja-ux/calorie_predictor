@@ -21,6 +21,12 @@ A Machine Learning project that predicts the number of calories burned during ex
 - Scikit-learn
 - XGBoost
 
+## Dataset
+
+The project uses:
+- calories.csv
+- exercise.csv
+
 ## Dataset Features
 
 - Gender
